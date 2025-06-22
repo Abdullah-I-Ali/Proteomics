@@ -157,8 +157,3 @@ It's recommended to run filtering after normalization and **before imputation** 
 
 ---
 
-## 📥 Ready to Use
-
-You can now use this Markdown file as documentation in your GitHub repo, or as a learning note for your team.
-
----
