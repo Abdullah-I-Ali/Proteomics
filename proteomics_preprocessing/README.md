@@ -11,7 +11,7 @@ Each section includes theoretical explanations, examples, and best practices.
 
 ## 1\. Normalization
 
-(Explanation of normalization [methods..](http://methods..is) [here](https://github.com/Abdullah-I-Ali/Proteomics/blob/8041e1678ed28119c80bf3205641fe20dec4c6a7/proteomics_preprocessing/Theoretical/normalization_methods_omics.md) .)
+(Explanation of normalization methods.. [here](https://github.com/Abdullah-I-Ali/Proteomics/blob/8041e1678ed28119c80bf3205641fe20dec4c6a7/proteomics_preprocessing/Theoretical/normalization_methods_omics.md) .)
 
 ## 2\. Filtering
 
