@@ -1,0 +1,8 @@
+
+__pycache__/
+.Rhistory
+.RData
+*.Rproj
+.DS_Store
+*.csv
+*.xlsx
