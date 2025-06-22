@@ -22,4 +22,4 @@ Each section includes theoretical explanations, examples, and best practices.
 ## 4. Scaling
 (Explanation of scaling methods...)
 
-> Created by Abdallah Ibrahim, GitHub: @YourHandle
+> Created by Abdallah Ibrahim
