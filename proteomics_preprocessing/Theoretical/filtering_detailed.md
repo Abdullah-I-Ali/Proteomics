@@ -2,7 +2,7 @@
 # ✂️ Filtering in Proteomics Data Analysis  
 ## From Missing Values to IQR – Making Data Cleaner for Confident Interpretation
 
-**Author:** Abdallah Ibrahim  
+**Author:** Abdullah Ibrahim  
 **Tags:** proteomics, filtering, bioinformatics, preprocessing, IQR, missing-values
 
 ---
