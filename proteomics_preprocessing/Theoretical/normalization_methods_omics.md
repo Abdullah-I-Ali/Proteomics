@@ -1,7 +1,7 @@
 # 💪 Understanding Normalization Techniques in Omics Data Analysis
 ## From TIC to PQN – Choosing the Right Method for Reliable Results
 
-**Author:** Abdallah Ibrahim  
+**Author:** Abdullah Ibrahim  
 **Tags:** proteomics, normalization, bioinformatics, data-cleaning, TIC, PQN, VSN
 
 ---
