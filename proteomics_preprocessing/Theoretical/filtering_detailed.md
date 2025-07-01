@@ -145,12 +145,7 @@ You have multiple conditions and want reliable comparisons.
 
 ---
 
-## 📁 Where to Place in Your Pipeline
 
-This file fits within your preprocessing folder:
-
-```
-/preprocessing/filtering.md
 ```
 
 It's recommended to run filtering after normalization and **before imputation** or statistical testing.
