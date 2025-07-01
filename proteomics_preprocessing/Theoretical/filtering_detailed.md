@@ -147,8 +147,6 @@ You have multiple conditions and want reliable comparisons.
 
 
 ```
-
-It's recommended to run filtering after normalization and **before imputation** or statistical testing.
-
+It's recommended to run filtering after normalization and before imputation or statistical testing.
 ---
 
