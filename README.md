@@ -1,7 +1,7 @@
 ## **Title: Introduction to Proteomics: Tools, Techniques, and Applications**
 
 ## **Abstract:**
-Proteomics is a major branch of molecular biology that focuses on studying the entire protein complement of a cell, tissue, or organism. This field provides insights into cellular function, disease mechanisms, and therapeutic targets. This article provides a beginner-friendly overview of proteomics, including its principles, techniques like mass spectrometry, and its broader applications in biology and medicine.
+**Proteomics** is a major branch of molecular biology that focuses on studying the entire protein complement of a cell, tissue, or organism. This field provides insights into cellular function, disease mechanisms, and therapeutic targets. This article provides a beginner-friendly overview of proteomics, including its principles, techniques like mass spectrometry, and its broader applications in biology and medicine.
 
 ---
 
