@@ -98,6 +98,6 @@ Make sure all values are positive before log transformation.
 
 ---
 
-> Created by [Your Name], GitHub: [@YourHandle]  
+> Created by [Abdullah Ibrahim Ali] 
 > For more: proteomics • scaling • preprocessing • mass spectrometry
 
