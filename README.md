@@ -6,12 +6,12 @@ Proteomics is a major branch of molecular biology that focuses on studying the e
 ---
 
 ## **1. What is Proteomics?**
-Proteomics is the large-scale study of the full set of proteins—known as the proteome—produced or modified by an organism. Unlike the genome, the proteome is highly dynamic and changes in response to various stimuli, making it a powerful tool for understanding biological processes.
+**Proteomics** is the large-scale study of the full set of proteins—known as the proteome—produced or modified by an organism. Unlike the genome, the proteome is highly dynamic and changes in response to various stimuli, making it a powerful tool for understanding biological processes.
 
 ---
 
 ## **2. Why Study Proteins?**
-Proteins are the primary functional molecules in the cell. They catalyze biochemical reactions (enzymes), provide structural support, regulate gene expression, and enable communication between and within cells. Studying proteins gives direct insight into the actual biological activity happening in cells and tissues.
+**Proteins** are the primary functional molecules in the cell. They catalyze biochemical reactions (enzymes), provide structural support, regulate gene expression, and enable communication between and within cells. Studying proteins gives direct insight into the actual biological activity happening in cells and tissues.
 
 ---
 
@@ -38,7 +38,7 @@ Focuses on specific proteins or sets of proteins using methods like Selected Rea
 ---
 
 ## **5. Mass Spectrometry in Proteomics**
-Mass spectrometry (MS) is a central tool in proteomics. It enables the detection, identification, and quantification of proteins based on their peptide fragments.
+**Mass spectrometry (MS)** is a central tool in proteomics. It enables the detection, identification, and quantification of proteins based on their peptide fragments.
 
 ## **5.1 How Mass Spectrometry Works:**
   - **Ionization (e.g., ESI)**: Converts peptides into ions.
@@ -77,7 +77,7 @@ where H⁺ ≈ 1.007 Da (mass of a proton).
 ---
 
 ## **8. Conclusion**
-Proteomics offers a comprehensive view of cellular machinery by exploring the dynamic nature of proteins. Techniques like mass spectrometry, gel electrophoresis, and bioinformatics make it possible to decipher complex biological processes and contribute to medical and pharmaceutical advancements.
+**Proteomics** offers a comprehensive view of cellular machinery by exploring the dynamic nature of proteins. Techniques like mass spectrometry, gel electrophoresis, and bioinformatics make it possible to decipher complex biological processes and contribute to medical and pharmaceutical advancements.
 
 ---
 
