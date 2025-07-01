@@ -55,7 +55,9 @@ m/z = mass of ion / charge number. A single peptide can appear at different m/z 
 
 ### **5.4 Calculating Molecular Mass from Multiple Peaks:**
 Given multiple charge states (e.g., +2, +3), the true mass (M) can be calculated using:
-\[ m/z = \frac{M + z \times H^+}{z} \]
+\[
+m/z = \frac{M}{z} + H^+
+\]
 where H⁺ ≈ 1.007 Da (mass of a proton).
 
 ---
